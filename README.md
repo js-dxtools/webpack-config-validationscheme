@@ -49,7 +49,7 @@ var scheme = require('webpack-config-validationscheme')
 var Joi = require('webpack-config-validationscheme').Joi
 var webpackConfig = require('pathToYourConfig')
 
-const validationResult = Joi.validate(webpackConfig, scheme, { abortEarly: false })
+var validationResult = Joi.validate(webpackConfig, scheme, { abortEarly: false })
   if (validationResult.error) {
     console.info(validationResult.error.annotate())
   } else {
