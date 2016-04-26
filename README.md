@@ -2,8 +2,6 @@
 
  > Validate your webpack configs with joi
 
-[![travis build](https://img.shields.io/travis/js-dxtools/webpack-config-validationscheme.svg?style=flat-square)](https://travis-ci.org/js-dxtools/webpack-config-validationscheme)
-[![codecov.io](https://img.shields.io/codecov/c/github/js-dxtools/webpack-config-validationscheme.svg?style=flat-square)](https://codecov.io/github/js-dxtools/webpack-config-validationscheme?branch=master)
 ![dependencies](https://img.shields.io/david/js-dxtools/webpack-config-validationscheme.svg?style=flat-square)
 ![devDependencies](https://img.shields.io/david/dev/js-dxtools/webpack-config-validationscheme.svg?style=flat-square)
 [![version](https://img.shields.io/npm/v/webpack-config-validationscheme.svg?style=flat-square)](http://npm.im/webpack-config-validationscheme)
