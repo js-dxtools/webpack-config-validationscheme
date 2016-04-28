@@ -5,7 +5,7 @@
 ![dependencies](https://img.shields.io/david/js-dxtools/webpack-config-validationscheme.svg?style=flat-square)
 ![devDependencies](https://img.shields.io/david/dev/js-dxtools/webpack-config-validationscheme.svg?style=flat-square)
 [![version](https://img.shields.io/npm/v/webpack-config-validationscheme.svg?style=flat-square)](http://npm.im/webpack-config-validationscheme)
-[![downloads](https://img.shields.io/npm/dm/webpack-config-validationscheme.svg?style=flat-square)](http://npm-stat.com/charts.html?package=webpack-validator&from=2015-08-01)
+[![downloads](https://img.shields.io/npm/dm/webpack-config-validationscheme.svg?style=flat-square)](http://npm-stat.com/charts.html?package=webpack-config-validationscheme&from=2015-08-01)
 [![MIT License](https://img.shields.io/npm/l/webpack-config-validationscheme.svg?style=flat-square)](http://opensource.org/licenses/MIT)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 [![Commitizen friendly](https://img.shields.io/badge/commitizen-friendly-brightgreen.svg?style=flat-square)](http://commitizen.github.io/cz-cli/)
